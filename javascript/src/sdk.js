@@ -306,8 +306,6 @@
         var requiredKeys = {
             token: toString,
             secret: toString,
-            userId: toString,
-            userName: toString,
             sessionId: toString,
             build: toString
         };
